@@ -1,8 +1,8 @@
 # Gang
 Suika game to make 종강
 ===================
-### 20221052 심규재
-![title](https://github.com/SimGyuJae/Gang/assets/135809399/f1b4ffd6-7865-4cdd-8ff2-60b829761e4a)
+### 20221052 심규재   
+![title](https://github.com/SimGyuJae/Gang/assets/135809399/f1b4ffd6-7865-4cdd-8ff2-60b829761e4a)   
 **STORYLINE**   
 "A student is eagerly willing to get 종강"   
 "If you want 종강, huh? Then take it"
