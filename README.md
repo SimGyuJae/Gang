@@ -9,4 +9,5 @@
 
 **CONTROLS**   
 Mouse click to drop the Gang(공), and combine them into more bigger Gang   
+Your goal is to make greatest Gang, 'Jong Gang'(which means "end of semester" in Korean)   
 CAUTION!! DO NOT let the Gang to reach the top of the box
